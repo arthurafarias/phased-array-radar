@@ -1,16 +1,6 @@
-# AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar
-
-[![Hardware: CERN-OHL-P](https://img.shields.io/badge/Hardware-CERN--OHL--P-blue.svg)](https://ohwr.org/cern_ohl_p_v2.txt)
-[![Software: MIT](https://img.shields.io/badge/Software-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Alpha](https://img.shields.io/badge/Status-Alpha-orange)](https://github.com/NawfalMotii79/PLFM_RADAR)
-[![Frequency: 10.5GHz](https://img.shields.io/badge/Frequency-10.5GHz-blue)](https://github.com/NawfalMotii79/PLFM_RADAR)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/NawfalMotii79/PLFM_RADAR/pulls)
-
-![AERIS-10 Radar System](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/3fb1dabf-2c6d-4b5d-b471-48bc461ce914.jpg)
+9# AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar
 
 AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who want to explore and experiment with phased array radar technology.
-
-![AERIS-10 Antenna Array](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/Antenna_Array.jpg)
 
 ## 📡 Overview
 
@@ -29,8 +19,6 @@ The AERIS-10 project aims to democratize radar technology by providing a fully o
 - **Modular Design** - Separate power management, frequency synthesis, and RF boards
 
 ## 🏗️ System Architecture
-
-![AERIS-10 System Diagram](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/RADAR_V6_V2.png)
 
 ### Hardware Components
 
@@ -109,8 +97,6 @@ The AERIS-10 main sub-systems are:
    - Real-time target plotting
    - Map integration
    - Radar control interface
-
-![AERIS-10 GUI Demo](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/GUI_V6.gif)
 
 ## 📊 Technical Specifications
 
@@ -197,7 +183,7 @@ Originally, the entire project used the MIT license. The community (special than
 
 ## 📚 Documentation
 
-Comprehensive documentation is available in the `/docs` folder and served via GitHub Pages at [https://NawfalMotii79.github.io/PLFM_RADAR/docs/](https://NawfalMotii79.github.io/PLFM_RADAR/docs/):
+Comprehensive documentation is available in the `/docs` folder.
 
 - [System Architecture](/docs/architecture.html)
 - [Implementation Log](/docs/implementation-log.html)
@@ -219,12 +205,10 @@ Areas where help is especially appreciated:
 
 I welcome serious inquiries from researchers, engineers, and potential collaborators. However, due to the high volume of interest in this project, please understand that I cannot guarantee a response to every message.
 
-- **Technical questions or bug reports**: Please [open a GitHub issue](https://github.com/NawfalMotii79/PLFM_RADAR/issues) so the whole community can benefit from the discussion.
+- **Technical questions or bug reports**: Please open an issue so the whole community can benefit from the discussion.
 - **Collaboration, licensing, or business inquiries**: 📧 nawfal.motii.33 [at] gmail [dot] com
 
 ## 💰 Sponsors
-
-![PCBWay Sponsor Logo](https://raw.githubusercontent.com/NawfalMotii79/PLFM_RADAR/main/8_Utils/PCBWAY.jpg)
 
 ---
 
